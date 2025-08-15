@@ -9,6 +9,8 @@
 A <strong>premium dark-themed CustomTkinter GUI tool</strong> for extracting credentials and related data from massive text files in multiple formats — built with <b>multiprocessing</b> for lightning-fast performance on millions of lines.
 </p>
 
+<img width="994" height="673" alt="image" src="https://github.com/user-attachments/assets/395c5a6a-3bbf-44c5-86b0-291cf5cfdd97" />
+
 <h2>✨ Features</h2>
 <ul>
   <li>🌑 Dark, premium <strong>CustomTkinter GUI</strong></li>
