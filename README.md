@@ -31,7 +31,7 @@ A <strong>premium dark-themed CustomTkinter GUI tool</strong> for extracting cre
 </ul>
 
 <h2>📦 Installation</h2>
-<pre><code>pip install requirements.txt
+<pre><code>pip install -r requirements.txt
 </code></pre>
 
 <h2>▶️ Usage</h2>
