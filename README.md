@@ -39,7 +39,7 @@ A <strong>premium dark-themed CustomTkinter GUI tool</strong> for extracting cre
 </code></pre>
 
 <h2>🛠 Build EXE</h2>
-<pre><code>builder.bat
+<pre><code>Builder.bat
 </code></pre>
 
 <h2>📜 Credits</h2>
